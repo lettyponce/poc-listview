@@ -1,0 +1,9 @@
+
+Msquid:S1481"2Remove this unused "mRecyclerView" local variable.(í¼¬y8©ŞƒÍü+
+asquid:UselessImportCheck"8Remove this unused import 'android.view.LayoutInflater'.(À¯ÑÇ8¤à«Õû+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹íÂ§øÿÿÿÿ8ô¹ÌÕû+
+\squid:UselessImportCheck"3Remove this unused import 'android.view.ViewGroup'.(‹îá8¤à«Õû+
+xsquid:UselessImportCheck"JRemove this unused import 'android.support.v7.widget.LinearLayoutManager'.(í™½Úúÿÿÿÿ8×Ö³Õû+
+\squid:S1854"ARemove this useless assignment to local variable "mRecyclerView".(í¼¬y8©ŞƒÍü+
+bsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8¤à«Õû+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šˆô–8©ŞƒÍü+
